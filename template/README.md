@@ -10,9 +10,6 @@
 
 Golang Gin boilerplate with DynamoDB resource. Supports multiple configuration environments.
 
-![](header.jpg)
-
-This project use a [DynamoDB base docker image](https://github.com/vsouza/docker-dynamoDB-local).
 
 Setup DynamoDB dependency:  `docker run -d -p 8080:8080 vsouza/dynamo-local --port 8080`
 
@@ -68,11 +65,6 @@ check this project: [vsouza/docker-dynamoDB-local](https://github.com/vsouza/doc
 
 ## Meta
 
-Vinicius Souza – [@iamvsouza](https://twitter.com/iamvsouza) – hi@vsouza.com
-
-Distributed under the MIT license. See [License](https://vsouza.mit-license.org) for more information.
-
-[https://github.com/vsouza](https://github.com/vsouza)
 
 [go-image]: https://img.shields.io/badge/Go--version-1.9-blue.svg
 [go-url]: https://golang.org/doc/go1.9
@@ -83,4 +75,4 @@ Distributed under the MIT license. See [License](https://vsouza.mit-license.org)
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvsouza%2Fgo-gin-boilerplate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvsouza%2Fgo-gin-boilerplate?ref=badge_large)
+
